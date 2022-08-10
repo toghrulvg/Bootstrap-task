@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#hello-world .second-side {
+    background-color: yellow;
+    padding-top: 60px;
+    margin-top: 30px;
+    padding-bottom: 60px;
+    border-radius: 20px;
+
+}
+
+#hello-world .second-side h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    padding-left: 25px;
+
+}
+
+#hello-world .second-side p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+.card-edit {
+
+    margin-top: 30px;
+    border: 0px;
+    padding-right: 10px;
+    margin-left: -30px;
+}
+
+.card-edit .btn-colorr {
+    background-color: white;
+    border-color: black;
+    color: black;
+}
+
+.card-edit .btn-colorr {
+    background-color: white;
+    border-color: black;
+    color: black;
+}
+
+
+
+
+.sidebar-manual {
+
+    position: relative;
+    border: 1px;
+    border-style: solid;
+    border-color: hotpink;
+    border-radius: 10px;
+    top: 30px;
+    width: 200px;
+    height: 350px;
+    background-color:  orange;
+}
+
+.sidebar-end a{
+    text-decoration: none;
+}
+
+main .copyright{
+    margin-left: 125px;
+}
